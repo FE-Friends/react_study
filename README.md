@@ -30,6 +30,9 @@
 
 [4차 스터디 [useReducer / useContext]](https://www.notion.so/4-useReducer-useContext-9636b86278fb478a9e93e687b1df553b) ➡️ 가영님
 
+[5차 스터디 [useRef, useMemo] + Redux](https://www.notion.so/5-useRef-useMemo-Redux-aefcc3662c364349bfc7b80952af622b?pvs=4) ➡️ 경미님 & 현호님
+
+
 <br>
 
 ## 👪 ABOUT US
