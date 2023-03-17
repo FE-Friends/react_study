@@ -1,16 +1,17 @@
-# 리액트 
-2023.2 ~ 매주 월요일 22시 
+# 리액트
+
+2023.2 ~ 매주 월요일 22시
 
 <br>
 
 ## 💫 스터디 목표
-✏️ 리액트에 대해서 더 알아기기! <br>
-➡️ [바로가기](https://www.notion.so/de6eecaee1204f2f896add3c9b9fd9c7?pvs=4)
 
+✏️ 리액트에 대해서 더 알아기기! <br>
 
 <br>
 
 ## 📌 발표 순서
+
 1️⃣ 가은님<br>
 2️⃣ 지인님<br>
 3️⃣ 현호님<br>
@@ -19,8 +20,7 @@
 
 <br>
 
-## 📁 STUDY LOG 
-
+## 📁 STUDY LOG
 
 [1차 스터디 [리액트는 어떻게 동작하는가?]](https://www.notion.so/2-SPA-MPA-CSR-SSR-a045dc42709445dc8c822a755fac4cac) ➡️ 가은님
 
@@ -32,6 +32,7 @@
 
 [5차 스터디 [useRef, useMemo] + Redux](https://www.notion.so/5-useRef-useMemo-Redux-aefcc3662c364349bfc7b80952af622b?pvs=4) ➡️ 경미님 & 현호님
 
+[6차 스터디 [useCallback, React.memo]](https://www.notion.so/5-useRef-useMemo-Redux-aefcc3662c364349bfc7b80952af622b?pvs=4) ➡️ 현호님
 
 <br>
 
